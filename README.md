@@ -35,7 +35,6 @@ Hardware-Software-Co-Design-of-an-Evolutionary-Strategy-Solver/
 ├── TestSystemC.sln
 ├── README.md
 └── پروژه درس هم طراحی سخت افزار و نرم افزار.pdf
-└── پروژه درس هم طراحی سخت افزار و نرم افزار.pdf
 ```
 
 ## SystemC Implementation
