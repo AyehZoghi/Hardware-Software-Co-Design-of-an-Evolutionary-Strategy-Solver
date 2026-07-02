@@ -23,7 +23,7 @@ The SystemC implementation models the system using separate modules for input ge
 ## Repository Structure
 
 ```text
-HSDesign/
+Hardware-Software-Co-Design-of-an-Evolutionary-Strategy-Solver/
 ├── src/
 │   ├── Main.cpp
 │   ├── Evolutionary_algorithm.cpp
@@ -33,6 +33,8 @@ HSDesign/
 ├── python/
 │   └── ES.py
 ├── TestSystemC.sln
+├── README.md
+└── پروژه درس هم طراحی سخت افزار و نرم افزار.pdf
 └── پروژه درس هم طراحی سخت افزار و نرم افزار.pdf
 ```
 
